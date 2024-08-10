@@ -6,4 +6,4 @@
 
 :mag: Add new value as 11. from user input
 
-:mag: Sort array and print smaller to bigger.
+:mag: Sort array and print bigger to smaller.
