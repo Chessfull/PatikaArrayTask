@@ -1,4 +1,4 @@
-## :notebook: This is the practise task about 'Arrays' in Patika+ Bootcamp. :notebook:
+## :notebook: This is the practise task about 'Arrays' in Patika+ Bootcamp. :notebook: C#
 ###  :page_with_curl: Instructions below :page_with_curl: 
 :mag: Create an array with 10 size.
 
