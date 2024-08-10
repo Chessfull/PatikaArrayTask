@@ -39,7 +39,8 @@ namespace PatikaArrayTask
             
 
             // ▼ Ordering and writing members smaller to bigger in array ▼
-            Array.Sort(newSizeArray);
+            Array.Sort(newSizeArray);// -> smaller to bigger
+            Array.Reverse(newSizeArray); // -> reverse for bigger to smaller
             for (int i = 0; i < newSizeArray.Length; i++)
             {
                 Console.WriteLine($"{i+1}.member of array:{newSizeArray[i]}");
